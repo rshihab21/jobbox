@@ -12,3 +12,24 @@ JobBox is a modern job portal platform where users can **post jobs**, **apply fo
 - 📱 **Responsive UI** for mobile and desktop
 
 ---
+
+## 🛠️ Technologies Used
+
+- **React.js** – Frontend Framework
+- **Tailwind CSS** – Styling and Design
+- **React Router** – Client-side Routing
+- **Firebase Auth** – Authentication and Authorization
+- **Node.js & Express.js** – Backend API
+- **MongoDB** – NoSQL Database
+- **JWT (JSON Web Token)** – Secure API Access
+- **dotenv** – Environment Variable Management
+
+---
+
+## 🔧 Setup Instructions
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/jobbox-app.git
+   cd jobbox-app
+   ```
